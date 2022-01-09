@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "category": "Phone Cases",
+        "title": "Phone Cases",
         "product": {
             "id": 0,
             "thumbnail": "swift",
@@ -9,7 +9,7 @@
             "details": [
                 {
                     "id": 0,
-                    "title": "Constants and Variables",
+                    "name": "Constants and Variables",
                     "image": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4",
                     "price": 4,
                     "stock": 23,
@@ -18,7 +18,7 @@
                 },
                 {
                     "id": 1,
-                    "title": "Constants and Variables",
+                    "name": "Constants and Variables",
                     "image": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4",
                     "price": 4,
                     "stock": 23,
@@ -27,7 +27,7 @@
                 },
                 {
                     "id": 2,
-                    "title": "Constants and Variables",
+                    "name": "Constants and Variables",
                     "image": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4",
                     "price": 4,
                     "stock": 23,
@@ -36,7 +36,7 @@
                 },
                 {
                     "id": 3,
-                    "title": "Constants and Variables",
+                    "name": "Constants and Variables",
                     "image": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4",
                     "price": 4,
                     "stock": 23,
@@ -45,7 +45,7 @@
                 },
                 {
                     "id": 4,
-                    "title": "Constants and Variables",
+                    "name": "Constants and Variables",
                     "image": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4",
                     "price": 4,
                     "stock": 23,
@@ -54,7 +54,7 @@
                 },
                 {
                     "id": 5,
-                    "title": "Constants and Variables",
+                    "name": "Constants and Variables",
                     "image": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4",
                     "price": 4,
                     "stock": 23,
@@ -63,7 +63,7 @@
                 },
                 {
                     "id": 6,
-                    "title": "Constants and Variables",
+                    "name": "Constants and Variables",
                     "image": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4",
                     "price": 4,
                     "stock": 23,
@@ -72,7 +72,7 @@
                 },
                 {
                     "id": 7,
-                    "title": "Constants and Variables",
+                    "name": "Constants and Variables",
                     "image": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4",
                     "price": 4,
                     "stock": 23,
@@ -81,7 +81,7 @@
                 },
                 {
                     "id": 8,
-                    "title": "Constants and Variables",
+                    "name": "Constants and Variables",
                     "image": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4",
                     "price": 4,
                     "stock": 23,
@@ -90,7 +90,7 @@
                 },
                 {
                     "id": 9,
-                    "title": "Constants and Variables",
+                    "name": "Constants and Variables",
                     "image": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4",
                     "price": 4,
                     "stock": 23,
