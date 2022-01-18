@@ -56,56 +56,6 @@
                     "delivery": 0,
                     "description": "Soft feeling and water absorbent.",
                     "featured" : true
-                },
-                {
-                    "id": 5,
-                    "name": "iPhone 14",
-                    "image": "item6",
-                    "price": 2,
-                    "stock": 23,
-                    "delivery": 0,
-                    "description": "Organic milk from Australian farms.",
-                    "featured" : false
-                },
-                {
-                    "id": 6,
-                    "name": "iPhone 15",
-                    "image": "item7",
-                    "price": 7,
-                    "stock": 23,
-                    "delivery": 0,
-                    "description": "Collection of all spieces!",
-                    "featured" : false
-                },
-                {
-                    "id": 7,
-                    "name": "iPhone 16",
-                    "image": "item8",
-                    "price": 14,
-                    "stock": 23,
-                    "delivery": 0,
-                    "description": "Platter of fruits and vegtebals.",
-                    "featured" : false
-                },
-                {
-                    "id": 8,
-                    "name": "iPhone 17",
-                    "image": "item9",
-                    "price": 4,
-                    "stock": 23,
-                    "delivery": 0,
-                    "description": "Stack of A4 papers.",
-                    "featured" : false
-                },
-                {
-                    "id": 9,
-                    "name": "iPhone 18",
-                    "image": "item10",
-                    "price": 4,
-                    "stock": 23,
-                    "delivery": 0,
-                    "description": "Assorted box includes Dark and Milk chocolate.",
-                    "featured" : false
                 }
             ]
         }
